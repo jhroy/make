@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-06-20 01:08-0500\n"
+"PO-Revision-Date: 2014-06-20 01:22-0500\n"
 "Last-Translator: Jean-Hugues Roy <jh@jhroy.ca>\n"
 "Language-Team: The Theme Foundry\n"
 "X-Generator: Poedit 1.6.5\n"
@@ -1144,7 +1144,7 @@ msgstr ""
 
 #: inc/template-tags.php:157
 msgid "Read more"
-msgstr "suite..."
+msgstr "plus..."
 
 #: inc/tinymce-buttons/tinymce-buttons.php:144
 msgid "Add button"
@@ -1291,7 +1291,7 @@ msgstr ""
 
 #: partials/entry-date.php:18
 msgid "%s ago"
-msgstr "Il y a %s"
+msgstr "il y a %s"
 
 #: partials/entry-pagination.php:12
 msgid "Pages:"
